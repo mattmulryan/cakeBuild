@@ -1,0 +1,15 @@
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\Example.Tests.dll
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\Example.Tests.pdb
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\Example.dll
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\mscorlib.dll
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\nunit.framework.dll
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\Example.pdb
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\nunit.framework.xml
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\normidna.nlp
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\normnfc.nlp
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\normnfd.nlp
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\normnfkc.nlp
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\bin\Release\normnfkd.nlp
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\obj\Release\Example.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\obj\Release\Example.Tests.dll
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example.Tests\obj\Release\Example.Tests.pdb

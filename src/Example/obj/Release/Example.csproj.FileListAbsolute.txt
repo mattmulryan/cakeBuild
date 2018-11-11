@@ -1,0 +1,11 @@
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example\bin\Release\Example.dll
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example\bin\Release\Example.pdb
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example\bin\Release\mscorlib.dll
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example\bin\Release\normidna.nlp
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example\bin\Release\normnfc.nlp
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example\bin\Release\normnfd.nlp
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example\bin\Release\normnfkc.nlp
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example\bin\Release\normnfkd.nlp
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example\obj\Release\Example.csprojResolveAssemblyReference.cache
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example\obj\Release\Example.dll
+C:\Users\dt76800\Desktop\_git_latest\example\src\Example\obj\Release\Example.pdb
