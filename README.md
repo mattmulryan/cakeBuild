@@ -1,5 +1,7 @@
 # Cake example repository
 
+word
+
 This repository is used as an minimal example of using the [Cake build system](https://cakebuild.net)
 
 You can read more in the Cake [Getting Started guide](https://cakebuild.net/docs/tutorials/getting-started).
